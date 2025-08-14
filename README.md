@@ -6,7 +6,6 @@ Este projeto tem como objetivo realizar **tratamento de dados** e **análise exp
 O trabalho é dividido em duas etapas: preparação da base e análise exploratória de dados
 
 ---
-
 ## 📁 Estrutura do Projeto
 
 - **`tratamento_base.ipynb`** → Processo de limpeza e padronização da base:- 
@@ -21,12 +20,9 @@ O trabalho é dividido em duas etapas: preparação da base e análise explorat�
   - Variáveis categóricas 
   - Medidas de correlação
 
- **`auxiliares.py`** → Funções auxiliares:
-  - Arquivo python como funções de testes estatísticos 
-
-   **`graficos.py`** → Funções para plotagem de gráficos
-
-
+ **`auxiliares.py`** – Funções auxiliares para testes estatísticos  
+- **`graficos.py`** – Funções para plotagem de gráficos  
+- **`dados/`** – Pasta contendo os arquivos necessários para análise  
 ---
 
 ## 🚀 Tecnologias Utilizadas
@@ -40,4 +36,8 @@ O trabalho é dividido em duas etapas: preparação da base e análise explorat�
 - Jupyter Notebook
 
 ---
+Meu perfil no [LinkedIn](www.linkedin.com/in/elisa-ramos-nasc)
+
+
+
 
