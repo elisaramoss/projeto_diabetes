@@ -36,7 +36,7 @@ O trabalho é dividido em duas etapas: preparação da base e análise explorat�
 - Jupyter Notebook
 
 ---
-Meu perfil no [LinkedIn]((https://www.linkedin.com/in/elisa-ramos-nasc/)
+Meu perfil no [LinkedIn]((https://www.linkedin.com/in/elisa-ramos-nasc)
 
 
 
