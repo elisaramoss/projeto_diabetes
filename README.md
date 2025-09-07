@@ -20,7 +20,7 @@ O trabalho é dividido em duas etapas: preparação da base e análise explorat�
   - Variáveis categóricas 
   - Medidas de correlação
 
- **`auxiliares.py`** – Funções auxiliares para testes estatísticos  
+- **`auxiliares.py`** – Funções auxiliares para testes estatísticos  
 - **`graficos.py`** – Funções para plotagem de gráficos  
 - **`dados/`** – Pasta contendo os arquivos necessários para análise  
 ---
